@@ -16,4 +16,4 @@ For Gnome Shell 3.2 you also need to turn the extension on. The easiest way to d
 
 ## Acknowledgments
 
-Based on the disable [window animations extension](https://github.com/lzap/disable-window-animations) by Lukas Zapletal [_lzap_at_seznam_dot_cz_]
+Based on the disable [window animations extension](https://github.com/lzap/disable-window-animations) by [Lukas Zapletal](https://github.com/lzap)
