@@ -1,8 +1,6 @@
 ## Disable Window Switcher Popup
 
-Works with Gnome Shell 3.0-3.2 (Fedora, Ubuntu, anything...)
-
-Author: Windsor Schmidt [_windsor.schmidt_at_gmail_dot_com_]
+This is my first GNOME 3 shell extension. I created this because I saw no way to disable the *huge* popup displayed dead center of the screen when switching between workspaces, other than editing `/usr/share/gnome-shell/js/ui/workspaceSwitcherPopup.js` and setting the value of `DISPLAY_TIMEOUT` to zero.
 
 ## Installation:
 
