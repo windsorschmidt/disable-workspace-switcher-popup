@@ -7,7 +7,7 @@ This is my first GNOME 3 shell extension. I created this because I saw no way to
 Create a folder in ~/.local/share/gnome-shell/extensions called disable-workspace-switcher-popup@github.com and move extension.js and metadata.json into that folder. Restart the gnome-shell:
 
     # mkdir -p ~/.local/share/gnome-shell/extensions 2>/dev/null
-    # git clone git://github.com/honeyclaw/disable-workspace-switcher-popup \
+    # git clone git://github.com/windsorschmidt/disable-workspace-switcher-popup \
       ~/.local/share/gnome-shell/extensions/disable-workspace-switcher-popup@github.com
 
 Alt-F2 and "r" ENTER
