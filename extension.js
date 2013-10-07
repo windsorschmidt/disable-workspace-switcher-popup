@@ -8,11 +8,12 @@ function init() {
 
 function enable() {
     // monkey patch
-    Main.wm._workspaceSwitcherPopup = function(actor) {
-        return false;
-    }
+    Main.wm._workspaceSwitcherPopup = {
+        actor: {hide: function() { return false; }},
+        display: function (direction, index) { return false; },
+        destroy: function () { return false; },
+        };
 }
-
 function disable() {
     Main.wm._workspaceSwitcherPopup = oldWorkspaceSwitcherPopup;
 }
