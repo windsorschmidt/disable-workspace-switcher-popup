@@ -12,7 +12,9 @@ Create a folder in ~/.local/share/gnome-shell/extensions called disable-workspac
 
 Restart the gnome-shell with the key sequence: Alt-F2 + "r" then ENTER.
 
-For Gnome Shell 3.2 you also need to turn the extension on. The easiest way to do that is to install gnome-tweak-tool and go to Shell Extensions settings screen and turn it on (the switch widget must have an "I" on it).
+Enable the extension. The easiest way to do this is to use [gnome-tweak-tool](https://wiki.gnome.org/action/show/Apps/GnomeTweakTool?action=show&redirect=GnomeTweakTool). From the Shell Extensions page, enable the plugin by clicking the switch widget:
+
+![Screenshot](/screenshot.png?raw=true "Enabling in gnome-tweak-tool")
 
 ## Acknowledgments
 
