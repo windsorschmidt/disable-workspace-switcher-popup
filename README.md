@@ -14,7 +14,7 @@ Restart the gnome-shell with the key sequence: Alt-F2 + "r" then ENTER.
 
 Enable the extension. The easiest way to do this is to use [gnome-tweak-tool](https://wiki.gnome.org/action/show/Apps/GnomeTweakTool?action=show&redirect=GnomeTweakTool). From the Shell Extensions page, enable the plugin by clicking the switch widget:
 
-![Screenshot](/screenshot.png?raw=true "Enabling in gnome-tweak-tool")
+![Screenshot](/screenshot.png "Enabling in gnome-tweak-tool")
 
 ## Acknowledgments
 
