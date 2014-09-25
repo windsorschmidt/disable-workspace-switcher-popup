@@ -16,6 +16,10 @@ Enable the extension. The easiest way to do this is to use [gnome-tweak-tool](ht
 
 ![Screenshot](/screenshot.png "Enabling in gnome-tweak-tool")
 
+Note: If the extension doesn't appear in gnome-tweak-tool, you may need to log out of your session and log in again.
+
 ## Acknowledgments
 
 Based on the disable [window animations extension](https://github.com/lzap/disable-window-animations) by [Lukas Zapletal](https://github.com/lzap)
+
+Thanks to users for suggesting changes and poking me for versionupdates.
