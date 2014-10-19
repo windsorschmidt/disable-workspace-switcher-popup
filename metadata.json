@@ -1,5 +1,5 @@
 {
-    "shell-version": ["3.0", "3.0.1", "3.0.2", "3.2", "3.6", "3.8", "3.10", "3.12"],
+    "shell-version": ["3.0", "3.0.1", "3.0.2", "3.2", "3.6", "3.8", "3.10", "3.12", "3.13", "3.14"],
     "uuid": "disable-workspace-switcher-popup@github.com",
     "name": "Disable Workspace Switcher Popup",
     "description": "Disables arrow overlay when switching between workspaces",
