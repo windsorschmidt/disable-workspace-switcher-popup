@@ -22,4 +22,4 @@ Note: If the extension doesn't appear in gnome-tweak-tool, you may need to log o
 
 Based on the disable [window animations extension](https://github.com/lzap/disable-window-animations) by [Lukas Zapletal](https://github.com/lzap)
 
-Thanks to users for suggesting changes and poking me for versionupdates.
+Thanks to users for suggesting changes and poking me for version updates.
