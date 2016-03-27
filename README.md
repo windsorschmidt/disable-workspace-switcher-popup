@@ -4,11 +4,11 @@ This is my first GNOME 3 shell extension. I created this because I saw no way to
 
 ## Installation:
 
-### From the Gnome Extensions page:
+**From the Gnome Extensions Page:**
 
 https://extensions.gnome.org/extension/959/disable-workspace-switcher-popup/
 
-### Manual installation:
+**Manual Installation:**
 
 Create a folder in ~/.local/share/gnome-shell/extensions called disable-workspace-switcher-popup@github.com and move extension.js and metadata.json into that folder:
 
