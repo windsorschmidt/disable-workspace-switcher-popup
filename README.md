@@ -4,11 +4,12 @@ This is my first GNOME 3 shell extension. I created this because I saw no way to
 
 ## Installation:
 
-**From the Gnome Extensions Page:**
+**From the GNOME Extensions Page:**
 
 https://extensions.gnome.org/extension/959/disable-workspace-switcher-popup/
 
-**Manual Installation:**
+
+**From the Command-line:**
 
 Create a folder in ~/.local/share/gnome-shell/extensions called disable-workspace-switcher-popup@github.com and move extension.js and metadata.json into that folder:
 
@@ -16,13 +17,23 @@ Create a folder in ~/.local/share/gnome-shell/extensions called disable-workspac
     # git clone git://github.com/windsorschmidt/disable-workspace-switcher-popup \
       ~/.local/share/gnome-shell/extensions/disable-workspace-switcher-popup@github.com
 
-Restart the gnome-shell with the key sequence: Alt-F2 + "r" then ENTER.
+**From Zip Archive:**
 
-Enable the extension. The easiest way to do this is to use [gnome-tweak-tool](https://wiki.gnome.org/action/show/Apps/GnomeTweakTool?action=show&redirect=GnomeTweakTool). From the Shell Extensions page, enable the plugin by clicking the switch widget:
+Download [extension.zip](https://github.com/windsorschmidt/disable-workspace-switcher-popup/blob/master/extension.zip) above.
 
-![Screenshot](/screenshot.png "Enabling in gnome-tweak-tool")
+Using [GNOME Tweak Tool](https://wiki.gnome.org/action/show/Apps/GnomeTweakTool?action=show&redirect=GnomeTweakTool), click the box near *"Install Shell Extension"* and select the downloaded file.
 
-Note: If the extension doesn't appear in gnome-tweak-tool, you may need to log out of your session and log in again.
+![Screenshot](/screenshot_2.png "Installing extension from zip archive")
+
+## Enabling the Extension:
+
+Restart the GNOME Shell with the key sequence: Alt-F2 + "r" then ENTER.
+
+Using GNOME Tweak Tool, navigate to the Shell Extensions pane and enable the plugin by clicking the switch widget:
+
+![Screenshot](/screenshot.png "Enabling extension in GNOME Tweak Tool")
+
+Note: You may need to restart GNOME Tweak Tool and/or re-log in to your session in order for the extension to appear in the list of installed extensions.
 
 ## Acknowledgments
 
