@@ -21,5 +21,7 @@
     "uuid": "disable-workspace-switcher-popup@github.com",
     "name": "Disable Workspace Switcher Popup",
     "description": "Disables the overlay displayed when switching between workspaces.",
-    "url": "https://github.com/windsorschmidt/disable-workspace-switcher-popup"
+    "url": "https://github.com/windsorschmidt/disable-workspace-switcher-popup",
+    "creator": "windsor.schmidt",
+    "creator_url": "/accounts/profile/windsor.schmidt"
 }
