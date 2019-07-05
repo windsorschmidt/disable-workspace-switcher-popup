@@ -11,11 +11,13 @@ https://extensions.gnome.org/extension/959/disable-workspace-switcher-popup/
 
 **From the Command-line:**
 
-Create a folder in ~/.local/share/gnome-shell/extensions called disable-workspace-switcher-popup@github.com and move extension.js and metadata.json into that folder:
-
-    # mkdir -p ~/.local/share/gnome-shell/extensions 2>/dev/null
-    # git clone git://github.com/windsorschmidt/disable-workspace-switcher-popup \
-      ~/.local/share/gnome-shell/extensions/disable-workspace-switcher-popup@github.com
+```
+git clone git://github.com/windsorschmidt/disable-workspace-switcher-popup \
+  /tmp/disable-workspace-switcher-popup && \
+mkdir -vp ~/.local/share/gnome-shell/extensions && \
+cp -vr /tmp/disable-workspace-switcher-popup/disable-workspace-switcher-popup@github.com \
+  ~/.local/share/gnome-shell/extensions
+```
 
 **From Zip Archive:**
 
