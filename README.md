@@ -19,14 +19,6 @@ cp -vr /tmp/disable-workspace-switcher-popup/disable-workspace-switcher-popup@gi
   ~/.local/share/gnome-shell/extensions
 ```
 
-**From Zip Archive:**
-
-Download [extension.zip](https://github.com/windsorschmidt/disable-workspace-switcher-popup/blob/master/extension.zip) above.
-
-Using [GNOME Tweak Tool](https://wiki.gnome.org/action/show/Apps/GnomeTweakTool?action=show&redirect=GnomeTweakTool), click the box near *"Install Shell Extension"* and select the downloaded file.
-
-![Screenshot](/screenshot_2.png "Installing extension from zip archive")
-
 ## Enabling the Extension:
 
 Restart the GNOME Shell with the key sequence: Alt-F2 + "r" then ENTER.
