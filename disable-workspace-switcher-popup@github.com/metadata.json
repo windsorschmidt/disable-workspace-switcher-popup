@@ -24,6 +24,8 @@
         "3.28",
         "3.30.0",
         "3.30.2",
+        "3.32",
+        "3.32.2",
         "3.34.1"
     ],
     "uuid": "disable-workspace-switcher-popup@github.com",
