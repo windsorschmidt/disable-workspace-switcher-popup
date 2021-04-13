@@ -17,6 +17,10 @@ curl -sL https://github.com/windsorschmidt/disable-workspace-switcher-popup/tarb
   "*/disable-workspace-switcher-popup@github.com"
 ```
 
+**From Arch Linux User Repository (AUR)**
+
+https://aur.archlinux.org/packages/gnome-shell-extension-disable-workspace-switcher-popup-git
+
 ## Enabling the Extension:
 
 Restart the GNOME Shell with the key sequence: Alt-F2 + "r" then ENTER.
